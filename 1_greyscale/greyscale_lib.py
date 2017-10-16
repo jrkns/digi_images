@@ -3,7 +3,7 @@ from PIL import Image
 
 def main(name):
     img = Image.open(name).convert('LA')
-    img.save('out.png')
+    img.save('out_lib.png')
 
 if __name__ == '__main__':
     try:

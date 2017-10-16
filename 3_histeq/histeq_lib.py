@@ -9,7 +9,7 @@ def main(name):
     data = np.asarray( img, dtype="int32" )
     img_eq_array = exposure.equalize_hist(data)
     img_eq = Image.fromarray(img_eq_array)
-    img_eq.save('out.tiff')
+    img_eq.save('out_lib.tiff')
 
 if __name__ == '__main__':
     main('in.png')

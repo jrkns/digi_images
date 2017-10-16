@@ -1,5 +1,7 @@
 # digi_images
 Intro to Digital Image Processing coursework
+- [jupyter_notebook](https://github.com/jrkns/digi_images/blob/master/All.ipynb): See all work in one place.
+- [ms_powerpoint](https://github.com/jrkns/digi_images/blob/master/Slide.pptx): Presentation slide
 
 ## Coursewok List
 - [1_greyscale](https://github.com/jrkns/digi_images/blob/master/1_greyscale/greyscale.py): Convert to Greyscale
